@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://TarokhDev2020:TarokhDev2020@cluster0.ygvnf.mongodb.net/<dbname>?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
