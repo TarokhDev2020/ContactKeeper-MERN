@@ -20,7 +20,7 @@ Contact manager using React hooks & context
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/TarokhDev2020/ExpenseTracker-MERN.git
+  git clone https://github.com/TarokhDev2020/ContactKeeper-MERN.git
   cd my-project
   npm install
   cd client
