@@ -2,8 +2,13 @@
 # ContactKeeper-MERN
 
 Contact manager using React hooks & context
-## Dependencies
 
+## Features
+* Login and register functionality
+* Keep a list of contacts
+* Add a personal or a professional contact number
+
+## Dependencies
 - bcryptjs
 - express
 - config
